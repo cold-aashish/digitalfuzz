@@ -1,0 +1,42 @@
+{
+  "nav": [
+    {
+      "nav_name": "Home",
+      "link": "/home",
+      "type": "",
+      "full_width": false,
+      "sub_nav": []
+    },
+    {
+      "nav_name": "About",
+      "link": "/about",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "WHY US",
+      "link": "/about",
+      "type": "",
+      "full_width": true,
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Services",
+      "link": "/service",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Team",
+      "link": "team",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "CONTACT",
+      "link": "/contact",
+      "type": "",
+      "sub_nav": []
+    }
+  ]
+}
